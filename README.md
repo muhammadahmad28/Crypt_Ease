@@ -1,7 +1,5 @@
 # Crypt Ease
 
-Video link: https://youtu.be/G0WXto7gUks
-
 CryptEase is a Python-based encryption utility designed to provide secure and efficient encryption and decryption for files. The project offers a simple command-line interface (CLI) for tasks such as key generation, file encryption, and file decryption.
 
 ---
@@ -33,7 +31,7 @@ To use CryptEase locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abdur-Rehman-Rehan/crypt_ease.git
+   git clone https://github.com/muhammadahmad28/Crypt_Ease.git
    cd cryptease
    pip install -r requirements.txt
    python cryptease.py
